@@ -27,7 +27,7 @@ M5 Forecasting Dataset and additional external datasets.
 The complete source code is provided in `CastAhead.zip`.
 
 ## How to Run
-1. Download `CastAhead.zip`
+1. Download `castahead_github_submission.zip`
 2. Extract the files
 3. Install dependencies:
    `pip install -r requirements.txt`
