@@ -24,7 +24,7 @@ An AI-powered demand forecasting system developed for retail demand prediction.
 M5 Forecasting Dataset and additional external datasets.
 
 ## Project Structure
-The complete source code is provided in `CastAhead.zip`.
+The complete source code is provided in `castahead_github_submission.zip`.
 
 ## How to Run
 1. Download `castahead_github_submission.zip`
